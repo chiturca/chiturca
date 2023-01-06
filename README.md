@@ -7,7 +7,7 @@
 💻 A frontend developer who loves to learn and expand her horizons 🌞
 🛠️ Recently a frontend bootcamp student on the capstone phase 
 
-📚 Sociology graduate and believes in it 🌟
+📚 Sociology graduate and loves it 🌟
 📞🖥️ Former customer representative
 
 🎼🎶 Polyphonic choir member
