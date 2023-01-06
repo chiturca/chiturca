@@ -9,7 +9,7 @@
 
 📚 Sociology graduate and loves it 🌟
 🎼🎶 Polyphonic choir member and vice coordinator 💜
-🌄🗺️🌏 Loves travelling and camping
+🌄🗺️🌏 Loves traveling and camping
 🐶🐱 Animal lover 🕷️
 
 ```
