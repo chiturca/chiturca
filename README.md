@@ -8,10 +8,9 @@
 🛠️ Recently a frontend bootcamp student on the capstone phase 
 
 📚 Sociology graduate and loves it 🌟
-📞🖥️ Former customer representative
-
-🎼🎶 Polyphonic choir member 💜
+🎼🎶 Polyphonic choir member and vice coordinator 💜
 🌄🗺️🌏 Loves travelling and camping
+🐶🐱 Animal lover 🕷️
 
 ```
 
