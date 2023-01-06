@@ -10,7 +10,7 @@
 📚 Sociology graduate and loves it 🌟
 📞🖥️ Former customer representative
 
-🎼🎶 Polyphonic choir member
+🎼🎶 Polyphonic choir member 💜
 🌄🗺️🌏 Loves travelling and camping
 
 ```
