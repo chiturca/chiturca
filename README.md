@@ -1,6 +1,23 @@
+# Welcome! I'm Miray 
+<img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi"/>
+
+## About Me:
+```yaml
+
+💻 A frontend developer who loves to learn and expand her horizons 🌞
+🛠️ Recently a frontend bootcamp student on the capstone phase 
+
+📚 Sociology graduate and believes in it 🌟
+📞🖥️ Former customer representative
+
+🎼🎶 Polyphonic choir member
+🌄🗺️🌏 Loves travelling and camping
+
+```
+
 # <img src="https://data.whicdn.com/images/328780312/original.gif" alt="findme" width="100" height="60"/> Find me on:
 
-<a href="https://www.linkedin.com/in/miraysonmez" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> or [sonmezmiray@gmail.com](https://www.google.com/gmail)
+<a href="https://www.linkedin.com/in/miraysonmez" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/> </a> or [sonmezmiray@gmail.com](https://www.google.com/gmail)
 
 # <img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" alt="tech" width="100" height="60"/> Technologies: 
 
