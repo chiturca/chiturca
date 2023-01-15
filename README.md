@@ -18,7 +18,12 @@
           
 # <h2 align="center"> <img src="https://data.whicdn.com/images/328780312/original.gif" alt="findme" width="100" height="60"/> Find me on:</h2>
 
-<p align=center> <a href="https://www.linkedin.com/in/miraysonmez" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23> </a> or <a href="mailto:sonmezmiray@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a></p>
+<p align=center> <a href="https://www.linkedin.com/in/miraysonmez" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23> </a> <a href="mailto:sonmezmiray@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://discord.com/users/690594490003488818"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=23></a> or we can chit-chat on <a href="https://www.instagram.com/chiturca/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=23></a> <a href="https://www.facebook.com/chiturca"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://twitter.com/chiturca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=23></a></p>
+
+
+
+
+
 
 #  <h2 align="center"> <img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" alt="tech" width="100" height="60"/> Technologies:</h2>
 
