@@ -28,7 +28,11 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a></p>
 
-<p align="center"> <img width="325"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff""  /></p>
+<p align="center"> <img  alt="chiturca's Most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff""  /></p>
+          
+<p align="center">  <img alt="chiturca's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chiturca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" /></p>
+
+<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=chiturca&theme=monokai" /></p>
           
           
 # <h2 align="center"> <img src="https://data.whicdn.com/images/328780312/original.gif" alt="findme" width="100" height="60"/> Find me on:</h2>
