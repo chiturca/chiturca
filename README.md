@@ -40,6 +40,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a></p>
 
-<p align="center"> <img width="325"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiturca&Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></p>
+<p align="center"> <img width="325"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff""  /></p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/chiturca/chiturca&left_color=red&right_color=purple" alt="chiturca" >
