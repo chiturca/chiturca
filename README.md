@@ -1,5 +1,5 @@
 #  <h1 align="center">Welcome! I'm Miray </h1>
-<p align=center> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="300" height="250"/></p>
+<p align=center> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="" height=""/></p>
 
 ##  <h2 align="center">About Me:</h2>
 ```yaml
