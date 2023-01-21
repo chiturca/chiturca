@@ -1,4 +1,4 @@
-#  <h1 align="center">Welcome! I'm Miray💜 </h1>
+#  <h1 align="center">Welcome! I'm Miray </h1>
 <p align=center> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="" height=""/></p>
 
 ##  <h2 align="center">About Me:</h2>
