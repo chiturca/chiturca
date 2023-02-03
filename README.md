@@ -1,7 +1,5 @@
-#  <h1 align="center">Welcome! I'm Miray </h1>
-<p align=center> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="" height=""/></p>
+#  <h1 align="center"> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="" height="60"/> Welcome! I'm Miray Sönmez</h1>
 
-##  <h2 align="center">About Me:</h2>
 ```yaml
 
 💻 A frontend developer who loves to learn and expand her horizons 🌞
