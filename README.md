@@ -5,7 +5,7 @@
 ```yaml
 
 💻 A frontend developer who loves to learn and expand her horizons 🌞
-🛠️ Recently a frontend bootcamp student on the capstone phase
+🛠️ Recently a frontend bootcamp student at <a href="https://www.re-coded.com/?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeP2cuN1Yv3kraBh4VmaCso82Sz8-Aw5XAEaHN9om7M8v2RFyxnuaEYaAlMcEALw_wcB" target="_blank"> Re:Coded </a> on the capstone phase
 
 📚 Sociology graduate and loves it 🌟
 🎼🎶 Polyphonic choir member and vice coordinator 💜
