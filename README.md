@@ -1,4 +1,4 @@
-#  <h1 align="center"> <img src="https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif" alt="hi" width="" height="60"/> Welcome! I'm Miray Sönmez</h1>
+#  <h1 align="center">  Welcome! I'm Miray Sönmez</h1>
 
 ```yaml
 
