@@ -34,8 +34,8 @@
 #  <h2 align="center"> <img src="https://media.tenor.com/_KsnH9YVT5QAAAAC/kakashi.gif" alt="tech" width="100" height="60"/> Stats:</h2>
 
 <p align="center"> <img alt="chiturca's streak" src="https://streak-stats.demolab.com/?user=chiturca&theme=monokai&hide_border=false" height="150" /></p>
-<p align="center"> <img alt="chiturca's Most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150"/>
-<img alt="chiturca's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chiturca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150" /></p>
+<p align="center"> <img alt="chiturca's most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&langs_count=8&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150"/>
+<img alt="chiturca's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chiturca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150" /></p>
        
           
 # <h2 align="center"> <img src="https://data.whicdn.com/images/328780312/original.gif" alt="findme" width="100" height="60"/> Find me on:</h2>
