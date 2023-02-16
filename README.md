@@ -2,8 +2,9 @@
 
 ```yaml
 
-💻 A frontend developer who loves to learn and expand her horizons 🌞
-🛠️ Recently a frontend bootcamp student on Re:Coded on the capstone phase
+💻 A frontend developer who loves to learn and expand her horizons 
+🛠️ Recently a frontend bootcamp student on Re:Coded on the capstone phase 
+🌞 Do not hasitate to contact me for your projects ❗ 
 
 📚 Sociology graduate and loves it 🌟
 🎼 Polyphonic choir member and vice coordinator 🎶
