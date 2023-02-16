@@ -6,9 +6,9 @@
 🛠️ Recently a frontend bootcamp student on Re:Coded on the capstone phase
 
 📚 Sociology graduate and loves it 🌟
-🎼🎶 Polyphonic choir member and vice coordinator 💜
-🌄🗺️🌏 Loves traveling and camping
-🐶🐱 Animal lover 🕷️
+🎼 Polyphonic choir member and vice coordinator 🎶
+🆘 Social volunteer 🤝
+🌄🗺️🌏 Loves traveling and camping and animals 🕷🐶🐱
 
 ```
 
