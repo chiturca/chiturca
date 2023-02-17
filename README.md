@@ -5,8 +5,7 @@
 <p align=center><b>🌞 Do not hasitate to contact me for your projects ❗</b></p>
 <br />
 <p align=center>📚 Sociology graduate and loves it 🌟</p>
-<p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 </p>
-<p align=center>🆘 Social volunteer 🤝 </p>
+<p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 🆘 Social volunteer 🤝 </p>
 <p align=center>🗺️🌏 Loves traveling,camping, animals and anime 🕷🐶</p>
 
 
