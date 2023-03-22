@@ -1,6 +1,7 @@
 #  <h1 align="center">  Welcome! I'm Miray Sönmez</h1>
 
 <p align=center>💻 A frontend developer who loves to learn and expand her horizons</p>
+<p align=center>💻 Full time Frontend Dev for React Shopify in <a href="https://www.royal-apps.io/" target="_blank" rel="noreferrer">Royal Apps</a> </p>
 <p align=center>🛠️ Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
 <p align=center><b>🌞 Do not hasitate to contact me for your projects ❗</b></p>
 <br />
