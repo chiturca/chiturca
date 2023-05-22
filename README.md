@@ -46,4 +46,4 @@
 </details>
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/chiturca/chiturca&left_color=red&right_color=purple&left_text=Hello%20Visitors" alt="chiturca" >
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/chiturca/chiturca&left_color=red&right_color=purple&left_text=Hello%20Visitors" alt="helloVisitors" >
