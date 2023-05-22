@@ -10,7 +10,7 @@
 <p align=center>🗺️🌏 Loves traveling,camping, animals and anime 🕷🐶</p>
 
 
-> **▼Dropdown Menu▼**:
+ **▼Dropdown Menu▼**:
 <details>
 <summary> <h2 align="center"> <picture><img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" alt="tech" width="100" height="60"/></picture> Technologies:</h2></summary>
   
