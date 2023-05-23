@@ -3,7 +3,6 @@
 <p align=center>💻 A frontend developer who loves to learn and expand her horizons</p>
 <p align=center>🌞 Currently learning Game Development @<a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy</p>
 <p align=center>🛠️ Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
-<p align=center><b> Do not hasitate to contact me for your projects ❗</b></p>
 <br />
 <p align=center>📚 Sociology graduate and loves it 🌟</p>
 <p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 🆘 Social volunteer 🤝 </p>
