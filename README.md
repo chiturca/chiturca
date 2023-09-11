@@ -1,7 +1,7 @@
 #  <h1 align="center">  Welcome! I'm Miray Sönmez</h1>
 
 <p align=center>💻 A frontend developer who loves to learn and expand her horizons</p>
-<p align=center>🛠️ Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy for Game Development</p>
+<p align=center>🛠️ Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy Game Development</p>
 <p align=center>🌞 Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
 <br />
 <p align=center>📚 Sociology graduate and loves it 🌟</p>
