@@ -1,6 +1,6 @@
 #  <h1 align="center">  Welcome! I'm Miray Sönmez</h1>
 
-<p align=center>💻 A web developer who loves to learn and expand her horizons</p>
+<p align=center>💻 A developer who loves to learn and expand her horizons</p>
 <p align=center>🛠️ Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy Unity Game Development</p>
 <p align=center>🌞 Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
 <br />
