@@ -8,9 +8,8 @@
 <p align=center>📚 Sociology graduate and loves it 🌟</p>
 <p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 🆘 Social volunteer 🤝 </p>
 <p align=center>🗺️🌏 Loves traveling,camping, animals and anime 🕷🐶</p>
-<h2 align=center>For more detail about my background, check out my <a href="https://miraysonmez.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>  
+<h2 align=center>For more detail about my background, check out my <a href="https://miraysonmez.vercel.app/" target="_blank" rel="noreferrer">portfolio</a></h2>
 <br /><br/>
-
 
  **▼Dropdown Menu▼**
 <details>
@@ -48,6 +47,5 @@
 <p align="center"> <img alt="chiturca's most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&langs_count=8&hide_border=true&layout=compact&bg_color=30,f5a99a,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150"/>
 <img alt="chiturca's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chiturca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=70,904e95,f57353&title_color=fff&text_color=fff&icon_color=fff" height="150" /></p>
 </details>
-
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/chiturca/chiturca&left_color=red&right_color=purple&left_text=Hello%20Visitors" alt="helloVisitors" >
