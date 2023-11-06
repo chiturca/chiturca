@@ -8,6 +8,8 @@
 <p align=center>📚 Sociology graduate and loves it 🌟</p>
 <p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 🆘 Social volunteer 🤝 </p>
 <p align=center>🗺️🌏 Loves traveling,camping, animals and anime 🕷🐶</p>
+<h2 align=center>For more detail about my background, check out my <a href="https://miraysonmez.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>  
+<br /><br/>
 
 
  **▼Dropdown Menu▼**
