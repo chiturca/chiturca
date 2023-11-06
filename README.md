@@ -5,7 +5,7 @@
 <p align=center>🛠️ Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy Unity Game Development</p>
 <p align=center>🌞 Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
 <br />
-<p align=center>📚 Sociology graduate and loves it 🌟</p>
+<p align=center>📚 Sociology graduate 🌟</p>
 <p align=center>🎼 Polyphonic choir member and vice coordinator 🎶 🆘 Social volunteer 🤝 </p>
 <p align=center>🗺️🌏 Loves traveling,camping, animals and anime 🕷🐶</p>
 <h2 align=center>For more detail about my background, check out my <a href="https://miraysonmez.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>
