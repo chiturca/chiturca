@@ -2,7 +2,8 @@
 
 <p align=center>💻 A developer who loves to learn and expand her horizons</p>
 <p align=center>💻 Currently working on one Nextjs project (<a href="https://github.com/chiturca/Avare_Ink" target="_blank" rel="noreferrer">Avare Ink</a>), one React project (<a href="https://github.com/chiturca/iuva" target="_blank" rel="noreferrer">IUVA</a>), and one Angular project (<a href="https://github.com/EnTeslimat" target="_blank" rel="noreferrer">@EnTeslimat</a>) . All will be revealed. Stay tuned! 🤩 </p>
-<p align=center>🛠️ Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy Unity Game Development</p>
+<p align=center>🛠️ Software Quality and Testing Specialist Trainee <a href="https://tobeto.com/platform" target="_blank" rel="noreferrer">@Tobeto</a></p>
+<p align=center>🌞 Graduated from <a href="https://www.panteon.games/en/" target="_blank" rel="noreferrer">Panteon</a> Academy Unity Game Development</p>
 <p align=center>🌞 Graduated from <a href="https://re-coded.com/" target="_blank" rel="noreferrer">Re:Coded</a> Frontend Web Development Bootcamp</p>
 <br />
 <p align=center>📚 Sociology graduate 🌟</p>
