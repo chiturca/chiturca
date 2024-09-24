@@ -16,7 +16,7 @@
 
  **▼Dropdown Menu▼**
 <details>
-<summary><picture><img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" alt="tech" width="100" height="60"/></picture> Technologies:</summary>
+<summary><picture><img src="https://i.pinimg.com/originals/0a/25/ab/0a25abe79f17f1f817250e16f078c9e7.gif" alt="tech" width="70" height="40"/></picture> Technologies:</summary>
   
 <p align=center><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
@@ -42,12 +42,12 @@
 </details>
 
 <details>
-<summary><picture><img src="https://i.pinimg.com/originals/4c/7f/3a/4c7f3ae8c924cab27a5b1317ca6fa848.gif" alt="findme" width="100" height="60"/></picture> Contact:</summary>
+<summary><picture><img src="https://i.pinimg.com/originals/4c/7f/3a/4c7f3ae8c924cab27a5b1317ca6fa848.gif" alt="findme" width="70" height="40"/></picture> Contact:</summary>
 <p align=center> <a href="https://www.linkedin.com/in/miraysonmez" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23> </a> <a href="mailto:sonmezmiray@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://discord.com/users/690594490003488818" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=23></a> </p>
 </details>
 
 <details>
-<summary><picture><img src="https://media.tenor.com/_KsnH9YVT5QAAAAC/kakashi.gif" alt="tech" width="100" height="60"/></picture> Stats:</summary>
+<summary><picture><img src="https://media.tenor.com/_KsnH9YVT5QAAAAC/kakashi.gif" alt="tech" width="70" height="40"/></picture> Stats:</summary>
 <p align="center"> <img alt="chiturca's streak" src="https://streak-stats.demolab.com/?user=chiturca&theme=radical&hide_border=true" height="150" /></p>
 <p align="center"> <img alt="chiturca's most used languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chiturca&langs_count=8&hide_border=true&layout=compact&bg_color=30,f5a99a,904e95&title_color=fff&text_color=fff&icon_color=fff" height="150"/>
 <img alt="chiturca's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chiturca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=70,904e95,f57353&title_color=fff&text_color=fff&icon_color=fff" height="150" /></p>
